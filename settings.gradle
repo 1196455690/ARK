@@ -1,2 +1,6 @@
+include ':jnilib'
 rootProject.name='ARK'
 include ':app'
+include ':uikit'
+include ':libtest'
+include ':libime'
